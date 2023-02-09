@@ -7,7 +7,7 @@ import Private from './private'
 import React from 'react'
 
 const Resume = {
-  name: '刘海波',
+  name: '吴皇呈',
   nick_name: 'Nomango',
   signature: `后端研发工程师 - ${WorkingYears(2019)}年开发经验`,
   desired_job: "后端研发工程师",
